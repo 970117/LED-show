@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="f(_3]N-DQjEIX-.th:K-" x="464" y="-167"><statement name="HANDLER"><block type="device_show_leds" id="bhu6aG7ottj.}{ikgg#3"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="+9%+`%U/Dpl[UGs4-mH-" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id=".D7Z,V9#}IK={G_Hq;:b"><value name="text"><shadow type="text" id="$=:|;W#s8d/Q7k3E|dI5"><field name="TEXT">Hello! What's your name?</field></shadow></value></block></statement></block><block type="device_button_event" id=":N;9/UIrm#h#1d2o.s9-" x="-7" y="158"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="B$qbbl4Ag)EjDVR:vYAw"><value name="text"><shadow type="text" id="|.VC6O^DNPx5Lm|+b|1~"><field name="TEXT">Hi! My name is Eric Lin.</field></shadow></value></block></statement></block></xml>
